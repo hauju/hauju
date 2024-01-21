@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Fell free to checkout my [biolink](https://haukejung.de) or read into my blog [oxidt](https://oxidt.com)!
+
 <!--
 **hauju/hauju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
