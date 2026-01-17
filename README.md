@@ -2,7 +2,7 @@
 
 Fell free to checkout my [biolink](https://haukejung.de) or read into my blog [oxidt](https://oxidt.com)!
 
-🔭 I’m currently working on [SeggWat](https://seggwat.com).
+🔭 I’m currently working on user feedback collection SaaS: [SeggWat](https://seggwat.com).
 
 <!--
 **hauju/hauju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
