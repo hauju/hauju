@@ -1,8 +1,27 @@
-### Hi there 👋
+### Hey, I'm Hauke 👋
 
-Fell free to checkout my [biolink](https://haukejung.de) or read into my blog [oxidt](https://oxidt.com)!
+Indie hacker & software engineer shipping developer tools and SaaS products — mostly with Rust, a sprinkle of AI, and
+way too much coffee.
 
-🔭 I’m currently working on user feedback collection SaaS: [SeggWat](https://seggwat.com).
+---
+
+#### 🚀 What I'm building
+
+| Project | Description |
+|---------|-------------|
+| [**infra.page**](https://infra.page) | One dashboard for your entire project |
+| [**Stepshots**](https://stepshots.com) | Capture product demos |
+| [**SeggWat**](https://seggwat.com) | User feedback collection platform |
+| [**Oxidt**](https://oxidt.com) | My tech blog — writing about Rust, infrastructure & indie hacking |
+
+
+---
+
+#### 🔗 Links
+
+[🌐 haukejung.de](https://haukejung.de) · [🦋 Bluesky](https://bsky.app/profile/hauju.bsky.social) · [𝕏
+Twitter](https://twitter.com/haukejung) · [💼 LinkedIn](https://www.linkedin.com/in/haukejung/) · [☕ Buy me a
+coffee](https://www.buymeacoffee.com/haukejung)
 
 <!--
 **hauju/hauju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
